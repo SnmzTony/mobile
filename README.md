@@ -1,25 +1,24 @@
-[![Github Workflow build on master](https://github.com/bitwarden/mobile/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/bitwarden/mobile/actions/workflows/build.yml?query=branch:master)
+[![Github'da Ana Dalda Derleme İşlemi](https://github.com/bitwarden/mobile/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/bitwarden/mobile/actions/workflows/build.yml?query=branch:master)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/bitwarden-mobile/localized.svg)](https://crowdin.com/project/bitwarden-mobile)
-[![Join the chat at https://gitter.im/bitwarden/Lobby](https://badges.gitter.im/bitwarden/Lobby.svg)](https://gitter.im/bitwarden/Lobby)
+[![Gitter'da Sohbete Katılın](https://badges.gitter.im/bitwarden/Lobby.svg)](https://gitter.im/bitwarden/Lobby)
 
-# Bitwarden Mobile Application
+# Bitwarden Mobil Uygulaması
 
-<a href="https://play.google.com/store/apps/details?id=com.x8bit.bitwarden" target="_blank"><img alt="Get it on Google Play" src="https://imgur.com/YQzmZi9.png" width="153" height="46"></a> <a href="https://mobileapp.bitwarden.com/fdroid/" target="_blank"><img alt="Get it on F-Droid" src="https://i.imgur.com/HDicnzz.png" width="154" height="46"></a> <a href="https://itunes.apple.com/us/app/bitwarden-free-password-manager/id1137397744?mt=8" target="_blank"><img src="https://imgur.com/GdGqPMY.png" width="135" height="40"></a>
+Bitwarden mobil uygulaması, C# diliyle Xamarin Android, Xamarin iOS ve Xamarin Forms kullanılarak yazılmıştır.
 
-The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
+![Android Ekran Görüntüsü](https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-android-myvault.png)
+![iOS Ekran Görüntüsü](https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-ios-myvault.png)
 
-<img src="https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-android-myvault.png" alt="" width="325" height="650" /> <img src="https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-ios-myvault.png" alt="" width="300" height="650" />
+## Derleme/Çalıştırma
 
-# Build/Run
+Derleme talimatları, önerilen araçlar, kod stil ipuçları ve başlamak için harika diğer bilgiler için [Katkı Belgeleri](https://contributing.bitwarden.com/) içindeki [Mobil bölümüne](https://contributing.bitwarden.com/getting-started/clients/mobile/) başvurun.
 
-Please refer to the [Mobile section](https://contributing.bitwarden.com/getting-started/clients/mobile/) of the [Contributing Documentation](https://contributing.bitwarden.com/) for build instructions, recommended tooling, code style tips, and lots of other great information to get you started.
+## İş Başvurusu!
 
-# We're Hiring!
+Büyük bir şekilde katkıda bulunmak ilginizi çeker mi? Ekibimize katılmayı düşünün! Birçok pozisyon için işe alım yapıyoruz. Şu anda açık olan fırsatları görmek ve Bitwarden'da çalışmanın nasıl bir deneyim olduğunu görmek için [Kariyer sayfamıza](https://bitwarden.com/careers/) göz atın.
 
-Interested in contributing in a big way? Consider joining our team! We're hiring for many positions. Please take a look at our [Careers page](https://bitwarden.com/careers/) to see what opportunities are currently open as well as what it's like to work at Bitwarden.
+## Katkı Sağlama
 
-# Contribute
+Kod katkılarına açığız! Lütfen herhangi bir "pull request"i `master` dalına karşı gönderin. İlk katkınıza nasıl başlayacağınız hakkında daha fazla bilgi edinmek için [Katkı Kılavuzunu](https://contributing.bitwarden.com/contributing/) okuyun. İlk katkınıza başlamak için [Katkı Belgeleri](https://contributing.bitwarden.com/)ne göz atın.
 
-Code contributions are welcome! Please commit any pull requests against the `master` branch. Learn more about how to contribute by reading the [Contributing Guidelines](https://contributing.bitwarden.com/contributing/). Check out the [Contributing Documentation](https://contributing.bitwarden.com/) for how to get started with your first contribution.
-
-Security audits and feedback are welcome. Please open an issue or email us privately if the report is sensitive in nature. You can read our security policy in the [`SECURITY.md`](SECURITY.md) file.
+Güvenlik denetimleri ve geri bildirimleri memnuniyetle karşılanır. Eğer rapor hassas bir niteliğe sahipse lütfen bir konu açın veya bize özel olarak e-posta gönderin. Güvenlik politikamızı [`SECURITY.md`](SECURITY.md) dosyasında okuyabilirsiniz.
