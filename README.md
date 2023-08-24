@@ -21,4 +21,4 @@ Büyük bir şekilde katkıda bulunmak ilginizi çeker mi? Ekibimize katılmayı
 
 Kod katkılarına açığız! Lütfen herhangi bir "pull request"i `master` dalına karşı gönderin. İlk katkınıza nasıl başlayacağınız hakkında daha fazla bilgi edinmek için [Katkı Kılavuzunu](https://contributing.bitwarden.com/contributing/) okuyun. İlk katkınıza başlamak için [Katkı Belgeleri](https://contributing.bitwarden.com/)ne göz atın.
 
-Güvenlik denetimleri ve geri bildirimleri memnuniyetle karşılanır. Eğer rapor hassas bir niteliğe sahipse lütfen bir konu açın veya bize özel olarak e-posta gönderin. Güvenlik politikamızı [`SECURITY.md`](SECURITY.md) dosyasında okuyabilirsiniz.
+Güvenlik denetimleri ve geri bildirimleri memnuniyetle karşılanır. Eğer rapor hassas bir niteliğe sahipse lütfen bir konu açın veya bize özel olarak e-posta gönderin. Güvenlik politikamızı [`SECURITY.md`](SECURITY.md) dosyasında okuyabilirsiniz..
